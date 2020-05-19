@@ -74,3 +74,11 @@ Update Mode: resetToDefaultDependencies
 
 The following packages were updated:
   com.unity.ide.vscode from version 1.2.0 to 1.1.4
+
+=== Tue May 19 04:14:22 2020
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ide.vscode from version 1.1.4 to 1.2.0
