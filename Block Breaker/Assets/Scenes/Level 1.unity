@@ -173,7 +173,6 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
   m_RaycastTarget: 1
-  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -412,6 +411,46 @@ PrefabInstance:
       propertyPath: m_isInputParsingRequired
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114227716073591876, guid: bd7b25f8b0a59464e99b853dc63bdace,
+        type: 3}
+      propertyPath: m_margin.z
+      value: 266.26028
+      objectReference: {fileID: 0}
+    - target: {fileID: 114227716073591876, guid: bd7b25f8b0a59464e99b853dc63bdace,
+        type: 3}
+      propertyPath: m_textInfo.lineCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114227716073591876, guid: bd7b25f8b0a59464e99b853dc63bdace,
+        type: 3}
+      propertyPath: m_margin.x
+      value: -792.3577
+      objectReference: {fileID: 0}
+    - target: {fileID: 114227716073591876, guid: bd7b25f8b0a59464e99b853dc63bdace,
+        type: 3}
+      propertyPath: m_firstOverflowCharacterIndex
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114227716073591876, guid: bd7b25f8b0a59464e99b853dc63bdace,
+        type: 3}
+      propertyPath: m_margin.y
+      value: 256.39868
+      objectReference: {fileID: 0}
+    - target: {fileID: 114227716073591876, guid: bd7b25f8b0a59464e99b853dc63bdace,
+        type: 3}
+      propertyPath: m_text
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114227716073591876, guid: bd7b25f8b0a59464e99b853dc63bdace,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114227716073591876, guid: bd7b25f8b0a59464e99b853dc63bdace,
+        type: 3}
+      propertyPath: m_margin.w
+      value: 24.653723
+      objectReference: {fileID: 0}
     - target: {fileID: 114855984726049376, guid: bd7b25f8b0a59464e99b853dc63bdace,
         type: 3}
       propertyPath: gameSpeed
@@ -421,6 +460,26 @@ PrefabInstance:
         type: 3}
       propertyPath: isAutoPlayEnabled
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224162630116922406, guid: bd7b25f8b0a59464e99b853dc63bdace,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 365.5679
+      objectReference: {fileID: 0}
+    - target: {fileID: 224162630116922406, guid: bd7b25f8b0a59464e99b853dc63bdace,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 345.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 224162630116922406, guid: bd7b25f8b0a59464e99b853dc63bdace,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 509.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 224162630116922406, guid: bd7b25f8b0a59464e99b853dc63bdace,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 159.17722
       objectReference: {fileID: 0}
     - target: {fileID: 224916668971674706, guid: bd7b25f8b0a59464e99b853dc63bdace,
         type: 3}
@@ -764,7 +823,6 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
-  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
