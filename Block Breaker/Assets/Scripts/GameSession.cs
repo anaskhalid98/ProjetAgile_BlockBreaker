@@ -7,7 +7,7 @@ public class GameSession : MonoBehaviour {
 
     // config params
     [Range(0.1f, 10f)] [SerializeField] float gameSpeed = 0.8f;
-    [SerializeField] int pointsPerBlockDestroyed = 50;
+    [SerializeField] int pointsPerBlockDestroyed = 5;
     [SerializeField] TextMeshProUGUI scoreText;
     [SerializeField] bool isAutoPlayEnabled;
 

@@ -461,6 +461,11 @@ PrefabInstance:
       propertyPath: isAutoPlayEnabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114855984726049376, guid: bd7b25f8b0a59464e99b853dc63bdace,
+        type: 3}
+      propertyPath: pointsPerBlockDestroyed
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 224162630116922406, guid: bd7b25f8b0a59464e99b853dc63bdace,
         type: 3}
       propertyPath: m_SizeDelta.y
