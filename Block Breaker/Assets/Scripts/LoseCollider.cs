@@ -7,7 +7,7 @@ using TMPro;
 public class LoseCollider : MonoBehaviour {
 
     [SerializeField] public static int tries = 3;
-    [SerializeField] int pointsPerBlockDestroyed = 50;
+    [SerializeField] int pointsPerBlockDestroyed = 5;
     [SerializeField] int currentScore = 0;
     [SerializeField] TextMeshProUGUI scoreText;
 
